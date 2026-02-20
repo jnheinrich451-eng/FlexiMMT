@@ -19,8 +19,8 @@ Accepted by CVPR 2026
 **Your star means a lot to us!** ⭐⭐⭐
 </div>
 
-![assets/qualitative_res_new.mp4](https://private-user-images.githubusercontent.com/72332280/552639519-ef40748f-36b0-49ae-a991-da5cc62da0a2.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1ODM5OTcsIm5iZiI6MTc3MTU4MzY5NywicGF0aCI6Ii83MjMzMjI4MC81NTI2Mzk1MTktZWY0MDc0OGYtMzZiMC00OWFlLWE5OTEtZGE1Y2M2MmRhMGEyLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIwVDEwMzQ1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3NzkzYzNjNmYzYTM0ZTYwNzRhMzc1ODQxMThjNzY2YjZjMGYyNDc0YjAxZjk5ZTMyMWMzOWZlMDIzOTIyYjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MPRWfEF19CkN5WOKWhGAY3JZKC-0C9l1Q_wcH9t684Y)
-<!-- Demo video: assets/qualitative_res_new.mp4 -->
+https://github.com/user-attachments/assets/72b84ee5-93d9-423c-b640-2ef045dcda82
+
 
 **📖 Table of Contents**
 
