@@ -85,48 +85,49 @@ git clone https://huggingface.co/datasets/llyyzzz/FlexiMMT ./benchmark_new
 By downloading the data, you are agreeing to the terms and conditions of the license. The data structure should be like:
 
 ```
-|-- benchmark_new
-    |-- captions_train
-        |-- animal
-            |-- bear
-                |-- crop.csv
-                |-- val_image.csv
-            |-- camel
-            |-- deer
+|-- FlexiMMT
+    |-- benchmark_new
+        |-- captions_train
+            |-- animal
+                |-- bear
+                    |-- crop.csv
+                    |-- val_image.csv
+                |-- camel
+                |-- deer
+                |-- ...
+            |-- human
+                |-- chest
+                    |-- crop.csv
+                    |-- val_image.csv
+                |-- crouch
+                |-- fitness
+                |-- ...
+        |-- captions_inf
+            |-- val_images.csv                          
+        |-- reference_videos
+            |-- animal
+                |-- bear_crop/
+                |-- camel_crop/
+                |-- ...
+            |-- human
+                |-- chest_crop/
+                |-- crouch_crop/
+                |-- ...
+            |-- extract_vid_and_crop.py
+        |-- reference_video_masks_train
+            |-- animal
+                |-- bear_crop/
+                |-- ...
+            |-- human
+                |-- ...
+        |-- reference_video_masks_eval
             |-- ...
-        |-- human
-            |-- chest
-                |-- crop.csv
-                |-- val_image.csv
-            |-- crouch
-            |-- fitness
+        |-- target_images
+            |-- 0_bear1+movie_man_1.png
             |-- ...
-    |-- captions_inf
-        |-- val_images.csv                          
-    |-- reference_videos
-        |-- animal
-            |-- bear_crop/
-            |-- camel_crop/
+        |-- target_masks
+            |-- {image_name}+{action}/
             |-- ...
-        |-- human
-            |-- chest_crop/
-            |-- crouch_crop/
-            |-- ...
-        |-- extract_vid_and_crop.py
-    |-- reference_video_masks_train
-        |-- animal
-            |-- bear_crop/
-            |-- ...
-        |-- human
-            |-- ...
-    |-- reference_video_masks_eval
-        |-- ...
-    |-- target_images
-        |-- 0_bear1+movie_man_1.png
-        |-- ...
-    |-- target_masks
-        |-- {image_name}+{action}/
-        |-- ...
 ```
 
 **Option 2: Prepare your own data**
