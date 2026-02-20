@@ -1,0 +1,7 @@
+cotracker_model_path: eval/motion_fidelity/checkpoints/cotracker_stride_4_wind_8.pth
+use_mask: true
+original_videos_path: "benchmark_new/reference_videos"
+original_masks_path: "benchmark_new/reference_video_masks_eval"
+edit_root_path: "outputs_mask_dynamic_timestep_token_nlastframe1"
+csv_directory: "benchmark_new/captions_inf_all"
+output_path: "eval_output_mask_dynamic_timestep_token_nlastframe1/motion_fidelity"

@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python scripts/inference_mask_batch.py --csv_dir benchmark_new/captions_inf/val_images.csv --ckpt_dir exp_outputs_mask --output_path outputs_mask

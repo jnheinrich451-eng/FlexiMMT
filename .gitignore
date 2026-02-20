@@ -1,0 +1,31 @@
+# Checkpoints (large files)
+exp_outputs_mask/
+benchmark_new/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Cache
+.ref_video_cache/
+
+# Outputs
+gradio_outputs/
+outputs*/
+eval_outputs*/
+
+# Logs
+error_images.txt
+pipeline_execution.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
