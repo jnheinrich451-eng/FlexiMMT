@@ -106,7 +106,8 @@ if __name__ == "__main__":
             # Ensure motion_words matches emb_ckpt_paths count
             motion_words = motion_words[:len(emb_ckpt_paths)]
 
-            save_name = gt_img_path.split("/")[-1] + "+" + row['sources'] + "+seed" + str(args.seed)
+            # save_name = gt_img_path.split("/")[-1] + "+" + row['sources'] + "+seed" + str(args.seed)
+            save_name = gt_img_path.split("/")[-1] + "+" + row['sources']
 
             if os.path.exists(os.path.join(args.output_path, "videos", f"{save_name}.mp4")):
                 print("Video already exists")
