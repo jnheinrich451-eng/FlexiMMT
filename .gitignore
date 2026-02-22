@@ -1,6 +1,7 @@
 # Checkpoints (large files)
 exp_outputs_mask/
 benchmark_new/
+outputs/
 
 # Python
 __pycache__/
