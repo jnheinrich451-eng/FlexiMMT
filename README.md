@@ -37,7 +37,8 @@ https://github.com/user-attachments/assets/72b84ee5-93d9-423c-b640-2ef045dcda82
 
 
 ## 🔥 Update Log
-- [2026/2/16] 📢 📢  [FlexiMMT](https://github.com/Ethan-Li123/FlexiMMT) is released, the <b>first</b> implicit image-to-video (I2V) motion transfer framework that explicitly enables <b>multi-object, multi-motion transfer</b>.
+- [2026/3/1] 📢 📢 Try our releated work: [Let Your Video Listen to Your Music!](https://dl.acm.org/doi/abs/10.1145/3746027.3758140), Beat-Aligned, Content-Preserving Video Editing with Arbitrary Music.
+- [2026/3/1] 📢 📢  [FlexiMMT](https://github.com/Ethan-Li123/FlexiMMT) is released, the <b>first</b> implicit image-to-video (I2V) motion transfer framework that explicitly enables <b>multi-object, multi-motion transfer</b>.
 
 
 ## 🛠️ Method Overview
