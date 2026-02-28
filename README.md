@@ -10,7 +10,7 @@ Accepted by CVPR 2026
 
 
 
-<a href='https://github.com/Ethan-Li123/FlexiMMT_page'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
+<a href='https://ethan-li123.github.io/FlexiMMT_page/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
 <!-- <a href=""><img src="https://img.shields.io/badge/arXiv-2505.03730-b31b1b.svg"></a> &nbsp; -->
 <a href='https://huggingface.co/datasets/llyyzzz/FlexiMMT'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue'></a> &nbsp;
 <a href="https://huggingface.co/llyyzzz/FlexiMMT"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a>
