@@ -321,7 +321,15 @@ python eval/run_pipeline.py --csv_directory ... --video_directory ... --step3
 ## 🤝🏼 Cite Us
 
 ```
-
+@article{li2026letimagemotion,
+      title={Let Your Image Move with Your Motion! -- Implicit Multi-Object Multi-Motion Transfer}, 
+      author={Yuze Li and Dong Gong and Xiao Cao and Junchao Yuan and Dongsheng Li and Lei Zhou and Yun Sing Koh and Cheng Yan and Xinyu Zhang},
+      year={2026},
+      eprint={2603.01000},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.01000}, 
+}
 ```
 
 
