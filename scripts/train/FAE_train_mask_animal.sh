@@ -17,7 +17,7 @@ while getopts ":n:v:a:m:" opt; do
   esac
 done
 
-export MODEL_PATH="../CogVideoX-5b-I2V" # Set to your CogVideoX-5b-I2V model path
+export MODEL_PATH="THUDM/CogVideoX-5b-I2V" # Set to your CogVideoX-5b-I2V model path
 # Set OUTPUT_PATH based on the value of use_mask
 if [ "$use_mask" = "True" ]; then
   export OUTPUT_PATH="./exp_outputs_mask/${motion_type}"
